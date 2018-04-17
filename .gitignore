@@ -1,0 +1,5 @@
+# a comment - this is ignored in my git repository.
+
+*.so
+
+build/**
