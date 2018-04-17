@@ -34,7 +34,8 @@ And the on prompt, type in as follows:
 The following is the result of running the command above.
 
 ```shell
-$ ./run.sh 
+# hyunyoung2 @ hyunyoung2-desktop in ~/Labs/Konltk/Cython/Basic_sample_about_Cython_glob on git:master x [19:41:55] 
+$ ./run.sh
 running build_ext
 building 'helloworld' extension
 creating build
