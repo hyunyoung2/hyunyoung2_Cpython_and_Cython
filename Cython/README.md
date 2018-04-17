@@ -4,7 +4,7 @@ If you want to run files under this directory.
 
 use the following 
 
-> pip3 install pyvenv  
+> sudo apt install -y python3-venv    
 > pyvenv env     
 > source env/bin/activate  
 
