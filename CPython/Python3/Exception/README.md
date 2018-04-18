@@ -248,3 +248,4 @@ spam.cpython-35m-x86_64-linux-gnu.so
  - [Tutorial](https://www.tutorialspoint.com/python/python_further_extensions.htm)
  - [python 3.5 building python with c or c++](https://docs.python.org/3.5/extending/extending.html)
  - [An example for python extension module](https://github.com/python/cpython/blob/master/Modules/xxmodule.c)
+ - [Youtube](https://www.youtube.com/watch?v=bfmslcTKriw)
