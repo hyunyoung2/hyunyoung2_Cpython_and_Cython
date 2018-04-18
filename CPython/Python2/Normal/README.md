@@ -1,4 +1,4 @@
-# Python3's Building Python with C or C++
+# Python2's Building Python with C or C++
 
 If you want make extension module with C or C++ above python 2.7 
 
