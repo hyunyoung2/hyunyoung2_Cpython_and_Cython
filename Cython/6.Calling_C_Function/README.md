@@ -284,6 +284,17 @@ f function called!
 
 ```
 
+If you want to see all in here, visit [hyunyoung2_Cpython_and_Cython/Cython/6.Calling_C_Function/](https://github.com/hyunyoung2/hyunyoung2_Cpython_and_Cython/tree/master/Cython/6.Calling_C_Function)
+
+There are several files, demo.pxd, demo.pyx. 
+
+Run the shell script, run.sh
+
+> ./run.sh
+
+
+
+
 # Reference
  
  - [Calling c function](http://docs.cython.org/en/latest/src/tutorial/external.html)
