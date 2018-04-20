@@ -43,3 +43,6 @@ setup(
 ```
 
 In here, the source part is only one, **function.pyx**
+
+
+- [Writing A C-Extension for python using Cython](https://www.artemisconsultinginc.com/writing-c-extension-python-using-cython)
