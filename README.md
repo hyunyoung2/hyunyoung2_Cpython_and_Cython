@@ -12,3 +12,5 @@ How to make extension module of python
  - [Tutorial of Cython on the officail site of Cython](http://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html)
 
  - [an Example of How to make extension module on Cython repository](https://github.com/cython/cython/tree/master/Demos/libraries)
+
+ - [How to wrap c function for python](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)
