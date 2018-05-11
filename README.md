@@ -14,3 +14,5 @@ How to make extension module of python
  - [an Example of How to make extension module on Cython repository](https://github.com/cython/cython/tree/master/Demos/libraries)
 
  - [How to wrap c function for python](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)
+ 
+ - [Cython versus SWIG](https://stackoverflow.com/questions/456884/extending-python-to-swig-not-to-swig-or-cython)
